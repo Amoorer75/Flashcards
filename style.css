@@ -9,11 +9,11 @@
 body{
     font-family: 'Zen Antique Soft', serif;
     font-size:  1rem;
-    background-color:whitesmoke;
+    background-color:#016a66;
 }
 
 header{
-    background-color: White;
+    background-color: #efb52b;
 }
 
 button{
@@ -40,7 +40,7 @@ button:hover{
     width: 100%;
     margin:auto;
     padding:20px 0;
-    background-color:white;
+    background-color:#efb52b;
 }
 
 .nav button{
@@ -54,6 +54,8 @@ button:hover{
     margin-top: 10px;
     border-radius: 5px;
     border-color: whitesmoke;
+    
+    background-color: #018c96;
     box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 0.5);
 }
 
@@ -84,7 +86,7 @@ button:hover{
     height: 200px;
     word-wrap: break-word;
     margin: 10px;
-    background-color:white;
+    background-color:#f6ebf9;
     box-shadow: 0 2px 4px 0 rgb(0, 0, 0, 0.5)
 }
 
