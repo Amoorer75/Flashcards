@@ -2,7 +2,7 @@
 
 
 ## **Overview**
-this project was created for helping me or other people studie.
+This project was created for helping me or other people studie.
 
 ## **Features**
  1. You can type on your own questions and answers
